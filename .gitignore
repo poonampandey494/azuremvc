@@ -6,6 +6,13 @@
 /out-tsc
 /bin
 *.dll
+/bin/*.*
+/**/bin
+/**/obj
+/**/bin/*
+/**/obj/*
+/**/obj/*.*
+*.force
 # dependencies
 /node_modules
 
